@@ -1,0 +1,23 @@
+{
+  "name": "phaser-shmaser",
+  "version": "1.0.0",
+  "description": "Production-ready phaser boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser3"
+  ],
+  "author": "Ivan Khomutov",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "phaser": "^3.18.1"
+  }
+}
